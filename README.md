@@ -7,3 +7,9 @@ A tiny practice repo for learning the pull request workflow.
 ```bash
 python3 greet.py Ada
 ```
+
+## Running the tests
+
+```bash
+python3 -m unittest
+```
